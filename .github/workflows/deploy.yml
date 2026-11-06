@@ -33,3 +33,5 @@ jobs:
       - name: Publicar en GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Nuevo despliegue tras activar GitHub Pages
